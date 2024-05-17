@@ -1,4 +1,4 @@
-**Terms & Conditions**
+**Terms of Use**
 
 These terms and conditions applies to the Farmer's Assistant app (hereby referred to as "Application") for mobile devices that was created by GVN Apps (hereby referred to as "Service Provider") as an Ad Supported service.
 
