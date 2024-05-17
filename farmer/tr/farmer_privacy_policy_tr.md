@@ -1,6 +1,6 @@
 **Gizlilik Politikası**
 
-Bu gizlilik politikası, GVN Apps (bundan böyle "Servis Sağlayıcı" olarak anılacaktır) tarafından Reklam Destekli bir hizmet olarak oluşturulan mobil cihazlara yönelik Farmer's Assistant uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet "OLDUĞU GİBİ" kullanılmak üzere tasarlanmıştır.
+Bu gizlilik politikası, GVN Apps (bundan sonra "Servis Sağlayıcı" olarak anılacaktır) tarafından Reklam Destekli bir hizmet olarak oluşturulan mobil cihazlara yönelik Farmer's Assistant uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet "OLDUĞU GİBİ" kullanılmak üzere tasarlanmıştır.
 
 **Bilgi Toplama ve Kullanma**
 
@@ -21,7 +21,7 @@ Uygulama cihazınızın konumunu toplayarak Hizmet Sağlayıcının yaklaşık c
 
 Hizmet Sağlayıcı, sağladığınız bilgileri size önemli bilgiler, gerekli bildirimler ve pazarlama promosyonları sağlamak amacıyla zaman zaman sizinle iletişim kurmak için kullanabilir.
 
-Daha iyi bir deneyim için, Uygulamayı kullanırken Hizmet Sağlayıcı bize belirli kişisel olarak tanımlanabilecek bilgileri sağlamanızı isteyebilir. Hizmet Sağlayıcının talep ettiği bilgiler kendileri tarafından saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
+Daha iyi bir deneyim için, Uygulamayı kullanırken Hizmet Sağlayıcı bize kişisel olarak tanımlanabilecek bazı bilgileri vermenizi talep edebilir. Hizmet Sağlayıcının talep ettiği bilgiler kendileri tarafından saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
 
 **Üçüncü Taraf Erişimi**
 
@@ -46,7 +46,7 @@ Uygulamanın tüm bilgi toplamasını, uygulamayı kaldırarak kolayca durdurabi
 
 **Veri Saklama Politikası**
 
-Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri, Uygulamayı kullandığınız sürece ve sonrasında makul bir süre boyunca saklayacaktır. Uygulama aracılığıyla sağladığınız Kullanıcı Tarafından Sağlanan Verileri silmelerini istiyorsanız lütfen geliştirici.gvn@gmail.com adresinden onlarla iletişime geçin; makul bir sürede yanıt vereceklerdir.
+Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri, Uygulamayı kullandığınız süre boyunca ve sonrasında makul bir süre boyunca saklayacaktır. Uygulama aracılığıyla sağladığınız Kullanıcı Tarafından Sağlanan Verileri silmelerini istiyorsanız lütfen geliştirici.gvn@gmail.com adresinden onlarla iletişime geçin; makul bir sürede yanıt vereceklerdir.
 
 **Çocuklar**
 
@@ -56,8 +56,20 @@ Uygulama 13 yaşın altındaki kişilere hitap etmemektedir. Hizmet Sağlayıcı
 
 **Güvenlik**
 
-Hizmet Sağlayıcı, bilgilerinizin gizliliğinin korunması konusunda endişe duymaktadır. Hizmet Sağlayıcı, Hizmet Sağlayıcının işlediği ve sakladığı bilgileri korumak için fiziksel, elektronik ve prosedürle ilgili korumalar sağlar.
+Hizmet Sağlayıcı bilgilerinizin gizliliğinin korunması konusunda endişe duymaktadır. Hizmet Sağlayıcı, Hizmet Sağlayıcının işlediği ve sakladığı bilgileri korumak için fiziksel, elektronik ve prosedürle ilgili korumalar sağlar.
 
 **Değişiklikler**
 
-Bu Gizlilik Politikası
+Bu Gizlilik Politikası herhangi bir nedenle zaman zaman güncellenecektir. Hizmet Sağlayıcı, bu sayfayı yeni Gizlilik Politikasıyla güncelleyerek Gizlilik Politikasındaki herhangi bir değişikliği size bildirecektir. Kullanıma devam edilmesi tüm değişikliklerin onaylanması anlamına geldiğinden, herhangi bir değişiklik için bu Gizlilik Politikasına düzenli olarak başvurmanız tavsiye edilir.
+
+Bu gizlilik politikası 09.05.2024 tarihinden itibaren geçerlidir
+
+**Rızanız**
+
+Uygulamayı kullanarak, bilgilerinizin bu Gizlilik Politikasında şimdi belirtildiği ve bizim tarafımızdan değiştirildiği şekilde işlenmesine izin vermiş olursunuz.
+
+**Bize Ulaşın**
+
+Uygulamayı kullanırken gizlilikle ilgili sorularınız varsa veya uygulamalarla ilgili sorularınız varsa lütfen Developer.gvn@gmail.com adresinden e-posta yoluyla Hizmet Sağlayıcıyla iletişime geçin.
+
+* * *
