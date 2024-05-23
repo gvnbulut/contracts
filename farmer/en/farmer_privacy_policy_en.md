@@ -1,10 +1,12 @@
 **Privacy Policy**
 
-This privacy policy applies to the Farmer's Assistant app (hereby referred to as "Application") for mobile devices that was created by GVN Apps (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Farmer's Assistant app (hereby referred to as "Application") for mobile devices that was created by GVN Apps (hereby referred to as "Service Provider") as an Ad Supported service. 
+This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application collects information when you download and use it. 
+This information may include information such as
 
 *   Your device's Internet Protocol address (e.g. IP address)
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
@@ -17,17 +19,21 @@ The Application collects your device's location, which helps the Service Provide
 
 *   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. 
+*   These services assist them in enhancing the Application and optimizing their offerings.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. 
+The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. 
+The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. 
+Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
@@ -42,25 +48,33 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 **Opt-Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the Application easily by uninstalling it. 
+You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at developer.gvn@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. 
+If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at developer.gvn@gmail.com and they will respond in a reasonable time.
 
 **Children**
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (developer.gvn@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13\. 
+The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. 
+In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. 
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (developer.gvn@gmail.com) so that they will be able to take the necessary actions.
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider is concerned about safeguarding the confidentiality of your information. 
+The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
 **Changes**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time for any reason. 
+The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. 
+You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 This privacy policy is effective as of 2024-05-09
 
